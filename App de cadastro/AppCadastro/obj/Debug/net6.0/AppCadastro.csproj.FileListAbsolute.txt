@@ -1,0 +1,15 @@
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.AssemblyInfo.cs
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.exe
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.deps.json
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.runtimeconfig.json
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.dll
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\bin\Debug\net6.0\ref\AppCadastro.dll
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\bin\Debug\net6.0\AppCadastro.pdb
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.dll
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\ref\AppCadastro.dll
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.pdb
+C:\Users\georg\OneDrive - g.unicamp.br\George\DIO\Criando um app simples de cadastro em Dotnet\App de cadastro\AppCadastro\obj\Debug\net6.0\AppCadastro.genruntimeconfig.cache
